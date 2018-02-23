@@ -1,2 +1,2 @@
-# Hackerrank-Ruby-Challenges
-Hackerrank-Ruby Challenges
+# Hackerrank Ruby Solutions
+Different contest and challenges are in branches
